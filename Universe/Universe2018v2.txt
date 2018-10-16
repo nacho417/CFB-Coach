@@ -142,5 +142,6 @@ Old Dominion,ODOM,Sun Belt,35,APP,3
 UT San Antonio,UTSA,Sun Belt,43,UTEP,1
 [END_CONF]
 [END_TEAMS]
+[START_BOWL_NAMES] 
 Rose Bowl,Orange Bowl,Sugar Bowl,Fiesta Bowl,Peach Bowl,Cotton Bowl,Citrus Bowl,Gator Bowl,Cactus Bowl,Alamo Bowl,Holiday Bowl,Sun Bowl,Liberty Bowl,Independence Bowl,Vegas Bowl,Military Bowl,Aloha Bowl,Humanitarian Bowl
 [END_BOWL_NAMES]
